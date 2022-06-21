@@ -1,33 +1,29 @@
 ```php
 <?php
-namespace AshBaker;
+namespace Ivan-Jank0vic;
 class About extends Me
 {
     public function getCurrentWorkplace(): array
     {
         return [
             'workplace' => [
-                'company' => 'Qquicker',
-                'position' => 'Founder'         
+                'company' => 'unemployed',
+                'position' => 'layingDown'         
             ]
         ];
     }
     public function getDailyKnowledge(): array
     {
         return [
-            Php::class,
-            Javascript::class,
-            Laravel::class,
-            Vuejs::class,
-            Angular::class,
-            ReactNative::class,
-            TailwindCss::class,
-            Aws::class,
+            Linux::,
+            css::,
+            C++::class,
+            Node.js::class
         ];
     }
     public function getFutureGoal(): string
     {
-        return 'To contribute to open source.';
+        return 'To contribute to open source!';
     }
 }
 ```
