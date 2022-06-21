@@ -1,7 +1,6 @@
+```php
 <?php
-
 namespace AshBaker;
-
 class About extends Me
 {
     public function getCurrentWorkplace(): array
@@ -13,7 +12,6 @@ class About extends Me
             ]
         ];
     }
-
     public function getDailyKnowledge(): array
     {
         return [
@@ -27,9 +25,9 @@ class About extends Me
             Aws::class,
         ];
     }
-
     public function getFutureGoal(): string
     {
         return 'To contribute to open source.';
     }
 }
+```
