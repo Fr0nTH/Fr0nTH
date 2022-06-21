@@ -15,10 +15,10 @@ class About extends Me
     public function getDailyKnowledge(): array
     {
         return [
-            Linux::,
-            css::,
+            Linux::class,
+            css::class,
             C++::class,
-            Node.js::class
+            Nodejs::class
         ];
     }
     public function getFutureGoal(): string
