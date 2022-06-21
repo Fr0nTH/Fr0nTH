@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ivan-Jank0vic
-- 🌱 I’m currently learning C#, C++, web dev
+- 🌱 I’m currently learning C++, php, laravel
 - 📫 How to reach me:     personal: FrontierH@protonmail.com
 - 📫                      business: ivanivanjank@gmail.com
 <!---
