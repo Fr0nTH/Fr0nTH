@@ -17,7 +17,7 @@ class About extends Me
         return [
             Linux::class,
             css::class,
-            C++::class,
+            Cplusplus::class,
             Nodejs::class
         ];
     }
